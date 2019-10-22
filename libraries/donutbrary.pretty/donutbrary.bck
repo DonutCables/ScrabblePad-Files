@@ -1,0 +1,52 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1V8
+D power-flag symbol +1.8V
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +3.3V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +3V3
+D power-flag symbol +3.3V
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND2
+D Three pin crystal (GND on pin 2), e.g. in SMD package
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND23
+D Four pin crystal (GND on pins 2 and 3), e.g. in SMD package
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND24
+D Four pin crystal (GND on pins 2 and 4), e.g. in SMD package
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Polyfuse_Small
+D resettable fuse, polymeric positive temperature coefficient (PPTC), small symbol
+K resettable fuse PTC PPTC polyfuse polyswitch
+$ENDCMP
+#
+$CMP VCC
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library
