@@ -1,4 +1,4 @@
-update=4/25/2018 22:12:15
+update=10/23/2019 11:11:25 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,3 +37,13 @@ LibName5=power
 LibName6=Power_Management
 LibName7=S:/Kicad/projects/donutbrary.pretty/donutbrary
 LibName8=S:/Kicad/projects/donutPad/donutPad
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=./
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
