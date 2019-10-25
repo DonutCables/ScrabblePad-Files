@@ -1,4 +1,4 @@
-update=10/23/2019 11:11:25 PM
+update=10/24/2019 12:58:30 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,18 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=device
-LibName2=S:/Kicad/projects/donutHub/donutHub
-LibName3=cherrymx
-LibName4=keyboard_parts
-LibName5=power
-LibName6=Power_Management
-LibName7=S:/Kicad/projects/donutbrary.pretty/donutbrary
-LibName8=S:/Kicad/projects/donutPad/donutPad
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -47,3 +35,6 @@ NetFmtName=
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
+[eeschema]
+version=1
+LibDir=
