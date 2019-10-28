@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF donutbrary_D12 D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
 F1 "donutbrary_D12" 0 -100 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "" 50 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  TO-???*
@@ -16,11 +16,11 @@ $FPLIST
  D_*
 $ENDFPLIST
 DRAW
-P 2 0 1 8 -50 50 -50 -50 N
-P 2 0 1 0 50 0 -50 0 N
-P 4 0 1 8 50 50 50 -50 -50 0 50 50 N
-X C 1 -150 0 100 R 50 50 1 1 P
-X A 2 150 0 100 L 50 50 1 1 P
+P 2 0 1 0 -50 0 50 0 N
+P 2 0 1 8 50 -50 50 50 N
+P 4 0 1 8 -50 -50 -50 50 50 0 -50 -50 N
+X C 1 150 0 100 L 50 50 1 1 P
+X A 2 -150 0 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -73,11 +73,11 @@ X ~ 1 100 -100 200 L 50 50 1 1 B I
 ENDDRAW
 ENDDEF
 #
-# donutbrary_QuadPad
+# donutbrary_Quad_Pad
 #
-DEF donutbrary_QuadPad q 0 40 Y Y 1 F N
-F0 "q" 300 0 60 H V C CNN
-F1 "donutbrary_QuadPad" 200 0 60 V V C CNN
+DEF donutbrary_Quad_Pad Q 0 40 Y Y 1 F N
+F0 "Q" 300 0 60 H V C CNN
+F1 "donutbrary_Quad_Pad" 200 0 60 V V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -92,10 +92,10 @@ ENDDEF
 # donutbrary_R
 #
 DEF donutbrary_R R 0 0 N Y 1 F N
-F0 "R" 80 0 50 V V C CNN
-F1 "donutbrary_R" 0 0 50 V V C CNN
-F2 "" 0 0 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
+F0 "R" 0 80 50 H V C CNN
+F1 "donutbrary_R" 0 0 50 H V C CNN
+F2 "" 0 0 60 V V C CNN
+F3 "" 0 0 60 V V C CNN
 $FPLIST
  R?
  SM0603
@@ -104,9 +104,9 @@ $FPLIST
  SM1206
 $ENDFPLIST
 DRAW
-S -40 150 40 -150 0 1 12 N
-X ~ 1 0 250 100 D 60 60 1 1 P
-X ~ 2 0 -250 100 U 60 60 1 1 P
+S -150 -40 150 40 0 1 12 N
+X ~ 1 -250 0 100 R 60 60 1 1 P
+X ~ 2 250 0 100 L 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -211,8 +211,8 @@ ENDDEF
 # donutbrary_Teensy_SD
 #
 DEF donutbrary_Teensy_SD SD 0 40 Y Y 1 F N
-F0 "SD" 0 -50 60 H V C CNN
-F1 "donutbrary_Teensy_SD" 0 50 60 H V C CNN
+F0 "SD" 0 200 60 H V C CNN
+F1 "donutbrary_Teensy_SD" 0 -300 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
