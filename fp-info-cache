@@ -1,4 +1,4 @@
-190207306888467
+181208244569767
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -51058,13 +51058,6 @@ QFP 0.8
 64
 64
 donutbrary
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-donutbrary
 C_1608
 SMT, 1608, 0603
 SMT, 1608, 0603
@@ -51142,6 +51135,20 @@ Hybrid_Plate_225H_hole_flip
 6
 2
 donutbrary
+M3_Pad
+
+
+0
+1
+1
+donutbrary
+M3_Test
+
+
+0
+6
+6
+donutbrary
 MX_LED
 MX_LED
 MX_LED
@@ -51212,20 +51219,6 @@ R_THT
 2
 2
 donutbrary
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-donutbrary
-RotaryEncoder_EC11_smallfeet
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-donutbrary
 TRRS-PJ-320A
 
 
@@ -51246,41 +51239,6 @@ USB miniB hirose through hole UX60SC-MB-5S8
 0
 7
 6
-donutbrary
-budget96_bottom_plate
-
-
-0
-2
-2
-donutbrary
-budget96_plate_top
-
-
-0
-2
-2
-donutbrary
-holes
-
-
-0
-6
-6
-donutbrary
-m3_mount
-
-
-0
-1
-1
-donutbrary
-quadpad
-
-
-0
-4
-4
 donutbrary
 rgb_pad
 
