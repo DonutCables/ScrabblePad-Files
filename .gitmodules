@@ -1,3 +1,3 @@
 [submodule "donutbrary"]
-	path = donutbrary
+	path = kicad_files/donutbrary
 	url = https://github.com/DonutCables/donutbrary
