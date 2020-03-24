@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1V8
+D 1.8v Connection
+$ENDCMP
+#
+$CMP +3V3
+D 3.3v Connection
+$ENDCMP
+#
+$CMP +5v
+D 5v Connection
+$ENDCMP
+#
+$CMP C
+D Capacitor
+$ENDCMP
+#
+$CMP Crystal_GND2
+D Crystal - 2 Gnd Pin
+$ENDCMP
+#
+$CMP Crystal_GND23
+D Crystal - 2,3 Gnd Pins
+$ENDCMP
+#
+$CMP Crystal_GND24
+D Crystal - 2,4 Gnd Pins
+$ENDCMP
+#
+$CMP Crystal_NoGND
+D Crystal - No Gnd Pins
+$ENDCMP
+#
+$CMP D12
+D Diode - 1 Anode 2 Cathode
+$ENDCMP
+#
+$CMP D21
+D Diode - 2 Anode 1 Cathode
+$ENDCMP
+#
+$CMP Elite-Proton-C
+D Elite C/Proton C Dual
+$ENDCMP
+#
+$CMP FE1.1s
+D 2 Port USB Hub
+$ENDCMP
+#
+$CMP FE2.1
+D 4 Port USB Hub
+$ENDCMP
+#
+$CMP GND
+D Ground Connection
+$ENDCMP
+#
+$CMP MX_LED
+D Pin 1 in Pin 2 out
+$ENDCMP
+#
+$CMP MX_LED_FLIP
+D Pin 2 in Pin 1 out
+$ENDCMP
+#
+$CMP Pad
+D Single Pad
+$ENDCMP
+#
+$CMP Quad_Pad
+D 4 Pad Connection
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP RGB_Pad
+D 3 Pin RGB Pad Connection
+$ENDCMP
+#
+$CMP SW_Encoder
+D Rotary switch, 4-bit encoding
+K rotary hex
+F ~
+$ENDCMP
+#
+$CMP Teensy_SD
+D PJRC SPI MicroSD Reader
+$ENDCMP
+#
+$CMP VCC
+D Vcc Connection
+$ENDCMP
+#
+#End Doc Library
