@@ -1,4 +1,5 @@
-# scrabblepad
+# ScrabblePad
+![Render](scrabblepad_render.png)
  "scrabblepad.xxx" = Default files using the GB pinout and setup. 
  Alternate files:
 	scrabblepad - 6mil_traces - Base board with routed switch and diode matrix, no other components placed. 
