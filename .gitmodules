@@ -3,4 +3,4 @@
 	url = git@github.com:DonutCables/ScrabblePad-Kicad-Files.git
 [submodule "ScrabblePad_Rev2_Kicad_Files"]
 	path = ScrabblePad_Rev2_Kicad_Files
-	url = git@github.com:DonutCables/ScrabblePad_Rev2_Kicad_Files.git
+	url = git@github.com:DonutCables/ScrabblePad-Rev2-Kicad-Files.git
