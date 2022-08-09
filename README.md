@@ -6,3 +6,5 @@
 	scrabblepad - centered controller - Same pinout and schematic as the GB board before I remembered there were centered standoffs in the JOlimon case. 
 	
 SVG/DXF files: width should be 285.75mm 
+
+An assembly guide can be found at https://github.com/JonasGe/ScrabblepadAssembly
